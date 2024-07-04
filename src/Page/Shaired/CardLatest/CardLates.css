@@ -1,0 +1,22 @@
+.containerc{
+  width: 90%;
+  padding: 20px;
+ 
+ 
+}
+
+.boxc{
+  width: 250px;
+  height: 300px;
+
+  margin: 0px 10px;
+  transition: 1s;
+
+}
+.box:hover{
+  transform: scale(1.3);
+  
+  
+  
+  
+}

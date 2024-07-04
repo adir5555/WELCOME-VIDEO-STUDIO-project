@@ -1,0 +1,22 @@
+.containerF{
+  width: 90%;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.boxF{
+  
+  transition: 1s;
+
+}
+.boxF:hover{
+  transform: scale(1.3);
+  background: olive;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 2;
+  padding: 10px;
+  
+}
